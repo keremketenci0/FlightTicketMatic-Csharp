@@ -1,0 +1,164 @@
+[
+  {
+    "CountryName": "Turkey",
+    "Cities": [
+      {
+        "CityName": "İstanbul",
+        "Airports": [
+          {
+            "AirportName": "Sabiha Gökçen Havalimanı",
+            "Airlines": [
+              {
+                "AirlineName": "Pegasus",
+                "Flights": [
+                  {
+                    "FlightId": "1",
+                    "PlaneNo": "1",
+                    "Date": "01.01.2024",
+                    "Time": "01.00",
+                    "Capacity": "10"
+                  }
+                ]
+              },
+              {
+                "AirlineName": "THY",
+                "Flights": [
+                  {
+                    "FlightId": "3",
+                    "PlaneNo": "3",
+                    "Date": "03.03.2024",
+                    "Time": "03.00",
+                    "Capacity": "30"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "AirportName": "İstanbul Havalimanı",
+            "Airlines": [
+              {
+                "AirlineName": "Pegasus",
+                "Flights": [
+                  {
+                    "FlightId": "2",
+                    "PlaneNo": "2",
+                    "Date": "02.02.2024",
+                    "Time": "02.00",
+                    "Capacity": "20"
+                  }
+                ]
+              },
+              {
+                "AirlineName": "THY",
+                "Flights": [
+                  {
+                    "FlightId": "4",
+                    "PlaneNo": "4",
+                    "Date": "04.04.2024",
+                    "Time": "04.00",
+                    "Capacity": "40"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "AirportName": "Ankara Esenboga Havalimanı",
+            "Airlines": [
+              {
+                "AirlineName": "Pegasus",
+                "Flights": [
+                  {
+                    "FlightId": "5",
+                    "PlaneNo": "5",
+                    "Date": "05.05.2024",
+                    "Time": "05.00",
+                    "Capacity": "50"
+                  },
+                  {
+                    "FlightId": "6",
+                    "PlaneNo": "6",
+                    "Date": "06.06.2024",
+                    "Time": "06.00",
+                    "Capacity": "60"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "CityName": "Ankara",
+        "Airports": [
+          {
+            "AirportName": "Ankara Esenboga Havalimanı",
+            "Airlines": [
+              {
+                "AirlineName": "THY",
+                "Flights": [
+                  {
+                    "FlightId": "7",
+                    "PlaneNo": "7",
+                    "Date": "07.07.2024",
+                    "Time": "07.00",
+                    "Capacity": "70"
+                  },
+                  {
+                    "FlightId": "8",
+                    "PlaneNo": "8",
+                    "Date": "08.08.2024",
+                    "Time": "08.00",
+                    "Capacity": "80"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CountryName": "USA",
+    "Cities": [
+      {
+        "CityName": "New York",
+        "Airports": [
+          {
+            "AirportName": "John F. Kennedy International Airport",
+            "Airlines": [
+              {
+                "AirlineName": "THY",
+                "Flights": [
+                  {
+                    "FlightId": "9",
+                    "PlaneNo": "9",
+                    "Date": "09.09.2024",
+                    "Time": "09.00",
+                    "Capacity": "90"
+                  },
+                  {
+                    "FlightId": "10",
+                    "PlaneNo": "10",
+                    "Date": "10.10.2024",
+                    "Time": "10.00",
+                    "Capacity": "100"
+                  },
+                  {
+                    "FlightId": "11",
+                    "PlaneNo": "11",
+                    "Date": "11.11.2024",
+                    "Time": "11.00",
+                    "Capacity": "110"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

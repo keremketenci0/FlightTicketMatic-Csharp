@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IToVWaMN9Ngzi1FXQERzPuT7hotX87jib3C4ysms6u+kGaHGqPdahAVHhBJHdt5MRUqJYyDqENJyO8NEPUyk4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kerem\\source\\repos\\Emrah Hoca\\FlightTicketMatic\\FlightTicketMatic\\FlightTicketMatic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kerem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
