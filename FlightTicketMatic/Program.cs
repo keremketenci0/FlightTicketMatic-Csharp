@@ -508,7 +508,7 @@ namespace FlightTicketMatic
 
                                                     FileService.EditFlight(flightList[selected_flight - 1].FlightId);
 
-                                                    FileService.SaveData(reservation, "reservations");
+                                                    FileService.SaveData(reservation, "Reservations");
                                                     Console.ForegroundColor = ConsoleColor.Green;
                                                     Console.WriteLine(reservation);
                                                 }
